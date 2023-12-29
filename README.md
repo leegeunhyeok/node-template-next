@@ -28,6 +28,9 @@ yarn test
 
 # Build with `esbuild`
 yarn build
+
+# Publish to npm
+yarn release
 ```
 
 ## License
