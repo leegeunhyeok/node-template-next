@@ -8,9 +8,8 @@
 
 ## Features
 
-- 🐤 Minimal template
+- 🔥 Minimal [TypeScript](https://www.typescriptlang.org) based template for NodeJS
 - ⚡️ Boost development with [esbuild](https://esbuild.github.io) + [swc](https://swc.rs) + [oxc](https://oxc-project.github.io)
-- 🔥 Fully TypeScript template
 - 🌍 Supports both ESM & CJS
 - 🃏 Jest environment ready
 
