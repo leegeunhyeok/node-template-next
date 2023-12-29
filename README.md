@@ -13,6 +13,12 @@
 - 🌍 Supports both ESM & CJS
 - 🃏 Jest environment ready
 
+## Getting Started
+
+Press **Use this template** button on the top. That's it.
+
+<img alt="use this template" width="142" src="./button.png">
+
 ## Scripts
 
 ```bash
